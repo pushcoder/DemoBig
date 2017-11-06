@@ -8,7 +8,7 @@
         <mkdir dir="build/classes"/>
         <javac srcdir="src" destdir="build/classes"/>
     </target>
-
+can you see me
     <target name="jar">
         <mkdir dir="build/jar"/>
         <jar destfile="build/jar/HelloWorld.jar" basedir="build/classes">
