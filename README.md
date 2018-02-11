@@ -1,4 +1,3 @@
-COMIIT1
 # DemoBig
 # Changed on Master
 #Changed by Master again
